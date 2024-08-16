@@ -1,0 +1,31 @@
+Patient_ID,Patient_Name,Age,Gender,Settlement_Date,Settlement_Amount,Healthcare_Provider,Provider_Location,Treatment_Type,Treatment_Start_Date,Treatment_End_Date,Cost_of_Treatment,Insurance_Coverage,Out_of_Pocket_Cost,Follow_Up_Required,Follow_Up_Date,Treatment_Success,Additional_Notes
+1,John Doe,42,Male,2022-05-14,20000,MediCare Health,Location 5,Surgery,2022-05-20,2022-06-15,15000,10000,5000,Yes,2022-08-15,Yes,Patient showed improvement
+2,Jane Smith,36,Female,2021-09-10,15000,Wellness Clinic,Location 2,Physical Therapy,2021-09-12,2021-09-30,12000,9000,3000,No,,Yes,No complications
+3,Michael Brown,55,Male,2020-11-05,32000,City Hospital,Location 8,Counseling,2020-11-10,2020-12-10,18000,15000,3000,Yes,2021-02-15,Yes,Requires further observation
+4,Emily Davis,29,Female,2023-02-20,24000,Family Care Center,Location 7,Medication,2023-02-25,2023-03-10,7000,5000,2000,No,,Yes,Patient showed improvement
+5,David Wilson,47,Male,2022-03-18,28000,Health Plus,Location 3,Rehabilitation,2022-03-20,2022-04-15,21000,18000,3000,Yes,2022-06-20,No,Follow-up recommended
+6,Sarah Johnson,62,Female,2021-06-25,18000,Total Care,Location 9,Surgery,2021-07-01,2021-07-25,25000,20000,5000,Yes,2021-10-01,Yes,Patient showed improvement
+7,Chris Lee,30,Male,2020-12-30,10000,MediCare Health,Location 4,Physical Therapy,2021-01-05,2021-01-20,8000,6000,2000,No,,Yes,No complications
+8,Anna Martin,40,Female,2023-05-10,15000,Wellness Clinic,Location 1,Counseling,2023-05-15,2023-06-10,10000,7500,2500,No,,Yes,Requires further observation
+9,James White,53,Male,2022-11-15,40000,City Hospital,Location 6,Medication,2022-11-20,2022-12-05,15000,12000,3000,Yes,2023-01-15,Yes,Follow-up recommended
+10,Laura Thompson,45,Female,2021-01-22,27000,Family Care Center,Location 3,Surgery,2021-01-28,2021-02-20,20000,15000,5000,Yes,2021-04-22,Yes,Patient showed improvement
+11,Paul Harris,60,Male,2023-03-12,35000,Health Plus,Location 2,Rehabilitation,2023-03-15,2023-04-10,25000,20000,5000,Yes,2023-06-20,Yes,Follow-up recommended
+12,Olivia Green,38,Female,2021-08-18,22000,City Hospital,Location 5,Surgery,2021-08-22,2021-09-12,16000,12000,4000,No,,Yes,No complications
+13,Benjamin Scott,52,Male,2020-05-10,28000,Wellness Clinic,Location 4,Physical Therapy,2020-05-15,2020-05-30,10000,7500,2500,No,,Yes,Patient showed improvement
+14,Emma Wright,25,Female,2022-12-01,19000,Family Care Center,Location 8,Medication,2022-12-05,2022-12-15,7000,5000,2000,Yes,2023-01-15,Yes,Requires further observation
+15,William King,64,Male,2023-07-14,33000,Total Care,Location 6,Counseling,2023-07-18,2023-08-08,20000,15000,5000,No,,Yes,Follow-up recommended
+16,Ava Adams,29,Female,2021-10-10,25000,MediCare Health,Location 9,Surgery,2021-10-15,2021-11-05,20000,15000,5000,Yes,2022-01-10,Yes,No complications
+17,Elijah Baker,48,Male,2020-11-25,20000,Wellness Clinic,Location 1,Physical Therapy,2020-11-28,2020-12-15,12000,10000,2000,No,,Yes,Patient showed improvement
+18,Mia Lewis,33,Female,2022-02-18,14000,City Hospital,Location 3,Medication,2022-02-20,2022-03-05,6000,4000,2000,No,,Yes,No complications
+19,Lucas Young,50,Male,2023-09-05,26000,Health Plus,Location 7,Counseling,2023-09-08,2023-09-25,18000,15000,3000,Yes,2023-11-10,Yes,Requires further observation
+20,Sophia Hill,43,Female,2021-12-20,17000,Family Care Center,Location 10,Rehabilitation,2021-12-22,2022-01-15,15000,12000,3000,Yes,2022-03-01,No,Follow-up recommended
+21,Daniel Moore,54,Male,2022-08-18,29000,MediCare Health,Location 3,Surgery,2022-08-20,2022-09-10,22000,17000,5000,Yes,2022-11-20,Yes,No complications
+22,Isabella Evans,31,Female,2023-01-25,21000,Wellness Clinic,Location 5,Physical Therapy,2023-01-28,2023-02-15,15000,12000,3000,No,,Yes,Patient showed improvement
+23,Noah Allen,46,Male,2021-03-14,35000,City Hospital,Location 9,Rehabilitation,2021-03-16,2021-04-05,25000,20000,5000,Yes,2021-06-15,Yes,Follow-up recommended
+24,Grace Turner,39,Female,2020-06-18,26000,Family Care Center,Location 7,Counseling,2020-06-20,2020-07-10,18000,15000,3000,No,,Yes,Requires further observation
+25,Oliver Stewart,37,Male,2022-04-22,19000,Health Plus,Location 4,Medication,2022-04-25,2022-05-10,8000,6000,2000,Yes,2022-06-25,Yes,Patient showed improvement
+26,Liam Howard,28,Male,2021-07-10,24000,MediCare Health,Location 8,Physical Therapy,2021-07-12,2021-07-30,18000,15000,3000,No,,Yes,No complications
+27,Amelia Brooks,41,Female,2023-02-15,32000,Wellness Clinic,Location 1,Rehabilitation,2023-02-18,2023-03-10,21000,18000,3000,Yes,2023-05-20,Yes,Follow-up recommended
+28,Ethan Walker,44,Male,2020-09-05,27000,City Hospital,Location 6,Counseling,2020-09-08,2020-09-25,16000,12000,4000,Yes,2020-11-15,Yes,Requires further observation
+29,Zoe Campbell,56,Female,2022-10-22,34000,Family Care Center,Location 10,Surgery,2022-10-25,2022-11-20,25000,20000,5000,Yes,2023-01-22,Yes,Patient showed improvement
+30,Alexander Rogers,49,Male,2023-06-12,25000,Total Care,Location 2,Physical Therapy,2023-06-15,2023-07-10,12000,9000,3000,No,,Yes,No complications
